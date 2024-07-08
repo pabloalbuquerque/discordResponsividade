@@ -1,0 +1,21 @@
+body {
+    overflow-x: hidden;
+    align-items: center;
+      
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;   
+    border: 0;
+    text-decoration: none;
+    max-width:100%;
+}
+
+
+a{
+    color: #33A8DB;
+}
